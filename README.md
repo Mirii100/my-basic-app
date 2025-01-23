@@ -1,6 +1,6 @@
 # mybasicapp
 
-A new Flutter project.
+This is a todo list project that first allows you to signup or login if you already have an account
 
 ## Getting Started
 
